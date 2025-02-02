@@ -1,7 +1,5 @@
 # **Shaiful Islam**  
-**Web Developer | React | Node.js | WordPress (Learning) | DevOps Enthusiast**  
-
-[![Portfolio](#)](Your Portfolio Link) • [![LinkedIn](#)](Your LinkedIn Link) • [![GitHub](https://img.shields.io/badge/GitHub-Shaiful191-black?style=flat&logo=github)](https://github.com/Shaiful191)  
+**Web Developer | React | DevOps Enthusiast**  
 
 ---
 
