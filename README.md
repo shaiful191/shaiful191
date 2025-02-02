@@ -52,7 +52,7 @@ Currently building a **custom WordPress site** for a client to enhance freelanci
 
 ## **📫 Connect with Me**  
 💼 **LinkedIn:** [https://www.linkedin.com/in/shaiful191]  
-🌐 **Portfolio:** [https://shaiful191.github.io/shaifulislamHRidoy.io]
+🌐 **Portfolio:** [https://shaiful191.github.io/shaifulislamHRidoy.io] 
 📩 **Email:** shaifulislam2651@gmail.com 
 
 ---
