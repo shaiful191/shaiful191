@@ -19,13 +19,6 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 ---
 
-
-## **🎯 What I'm Learning Next?**  
-📌 **DevOps (Docker, AWS, CI/CD Pipelines)**  
-📌 **Advanced Backend Development (Node.js, Express, MongoDB)**  
-
----
-
 ## **📫 Connect with Me**  
 💼 **LinkedIn:** [https://www.linkedin.com/in/shaiful191]  
 🌐 **Portfolio:** [https://shaiful191.github.io/shaifulislamHRidoy.io] 
