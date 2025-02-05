@@ -24,27 +24,8 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 ---
 
-## **🚀 Projects**  
-📌 **[Task Management App (MERN Stack)](https://github.com/Shaiful191/)**  
-A full-stack **task management system** built with **MongoDB, Express.js, React, and Node.js**. Features:  
-✅ Authentication with **Firebase**  
-✅ CRUD operations for task management  
-✅ Responsive UI with **Tailwind CSS**  
-
-📌 **[Portfolio Website (React & Tailwind)](https://github.com/Shaiful191/)**  
-A modern and **responsive developer portfolio** built with **React & Tailwind CSS**. Features:  
-✅ Showcases projects & skills  
-✅ Integrated contact form with **Firebase**  
-
-📌 **[WordPress Client Website (Ongoing)](https://github.com/Shaiful191/)**  
-Currently building a **custom WordPress site** for a client to enhance freelancing skills.  
-
-📌 **More projects on my [GitHub Repositories](https://github.com/Shaiful191?tab=repositories)** 🚀  
-
----
 
 ## **🎯 What I'm Learning Next?**  
-📌 **WordPress Customization & Freelancing**  
 📌 **DevOps (Docker, AWS, CI/CD Pipelines)**  
 📌 **Advanced Backend Development (Node.js, Express, MongoDB)**  
 
@@ -62,7 +43,4 @@ Currently building a **custom WordPress site** for a client to enhance freelanci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiful191&layout=compact&theme=tokyonight)  
 
 ---
-
-### **⭐️ If you find my projects helpful, consider giving a star!** 🌟  
-
----
+## **🚀 Projects**    
