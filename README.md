@@ -5,6 +5,14 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 ---
 
+## 📫 Connect with Me    
+
+📩 **Email:** shaifulislam2651@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/shaiful191  
+🌐 **Portfolio** https://shaiful191.github.io/shaifulislamHRidoy.io   
+
+---
+
 ## **🔧 Tech Stack & Tools**  
 
 <div style="display: flex;  flex-wrap: wrap; gap: 40px;">
@@ -30,13 +38,6 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
   </div>
 
 </div>
-
----
-
-## 📫 Connect with Me    
-🌐 **Portfolio** https://shaiful191.github.io/shaifulislamHRidoy.io   
-💼 **LinkedIn:** https://www.linkedin.com/in/shaiful191  
-📩 **Email:** shaifulislam2651@gmail.com
 
 ---
 
