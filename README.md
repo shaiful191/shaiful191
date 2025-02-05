@@ -1,8 +1,6 @@
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React and Node.js (basic)**. I'm currently exploring **DevOps (Docker, AWS, CI/CD)** to expand my skill set.  
-
+Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React and Node.js (basic)**. 
 - 🚀 **Building modern web applications with React & Node.js**  
-- 🎯 **Currently learning DevOps**  
 - 🔍 **Interested in web development, cloud computing, and automation**  
 
 ---
@@ -13,9 +11,6 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 **Backend & Databases:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
-
-**DevOps & Tools (Learning):**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)  
 
 ---
 
