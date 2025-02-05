@@ -14,9 +14,9 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 ---
 
-## 📫 Connect with Me  
-💼 **LinkedIn:** https://www.linkedin.com/in/shaiful191  
+## 📫 Connect with Me    
 🌐 **Portfolio** https://shaiful191.github.io/shaifulislamHRidoy.io   
+💼 **LinkedIn:** https://www.linkedin.com/in/shaiful191  
 📩 **Email:** shaifulislam2651@gmail.com
 
 ---
