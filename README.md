@@ -1,14 +1,9 @@
-# **Shaiful Islam**  
-**Web Developer | React | DevOps Enthusiast**  
-
----
-
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React, Node.js (basic), Laravel (basic), and Odoo (basic)**. I'm currently learning **WordPress for freelancing** and exploring **DevOps (Docker, AWS, CI/CD)** to expand my skill set.  
+Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React and Node.js (basic)**. I'm currently exploring **DevOps (Docker, AWS, CI/CD)** to expand my skill set.  
 
 - 🚀 **Building modern web applications with React & Node.js**  
-- 🎯 **Currently learning WordPress for freelancing & DevOps for career growth**  
-- 🔍 **Interested in full-stack development, cloud computing, and automation**  
+- 🎯 **Currently learning DevOps**  
+- 🔍 **Interested in web development, cloud computing, and automation**  
 
 ---
 
