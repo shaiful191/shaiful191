@@ -26,9 +26,4 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
 
 ---
 
-## **📊 GitHub Stats**  
-![Shaiful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaiful191&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaiful191&layout=compact&theme=tokyonight)  
-
----
 ## **🚀 Projects**    
