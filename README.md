@@ -1,5 +1,5 @@
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React and Node.js (basic)**. 
+Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React and Node.js**. 
 - 🚀 **Building modern web applications with React & Node.js**  
 - 🔍 **Interested in web development, cloud computing, and automation**  
 
