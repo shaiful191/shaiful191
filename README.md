@@ -32,6 +32,7 @@ Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **R
     <img src="https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=83CD29">
     <img src="https://img.shields.io/badge/Express.js-20232A?style=flat&logo=express&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb&logoColor=4EA94B">
+    <img src="https://img.shields.io/badge/Odoo-20232A?style=flat&logo=odoo&logoColor=FF6C37">
     <img src="https://img.shields.io/badge/GitHub-20232A?style=flat&logo=github&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman&logoColor=FF6C37">
     
