@@ -1,7 +1,7 @@
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Web Developer** with experience in **React , Node.js and Odoo**. 
-- 🚀 **Building modern software with React, Node.js & Odoo**  
-- 🔍 **Interested in web development, ERP, cloud computing, and automation**  
+Hi there! I'm **Shaiful**, a passionate **Software Engineer (Frontend)**. 
+- 🚀 **Building modern software with Javascript & React**  
+- 🔍 **Interested in web development, cloud computing, and  AI/ML**  
 
 ---
 
