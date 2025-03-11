@@ -1,7 +1,7 @@
 ## **👋 About Me**  
 Hi there! I'm **Shaiful**, a passionate **Software Engineer**. 
 - 🚀 **Building modern software with Javascript, React & Odoo**  
-- 🔍 **Interested in Web Development, ERP, and  AI/ML**  
+- 🔍 **Interested in  AI/ML**  
 
 ---
 
