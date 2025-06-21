@@ -1,6 +1,6 @@
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Software Engineer**. 
-- 🚀 **Building modern software with Javascript, React & Odoo**  
+Hi there! I'm **Shaiful**, a passionate **Mobile App Developer**. 
+- 🚀 **Building modern application with Flutter**  
 - 🔍 **Interested in  AI/ML**  
 
 ---
@@ -19,8 +19,8 @@ Hi there! I'm **Shaiful**, a passionate **Software Engineer**.
 <div style="display: flex;  flex-wrap: wrap; gap: 40px;">
 
 <img src="https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB">
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Dart-20232A?style=flat&logo=dart&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Flutter-20232A?style=flat&logo=Flutter&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Odoo-20232A?style=flat&logo=odoo&logoColor=79589F">
 <img src="https://img.shields.io/badge/HTML5-20232A?style=flat&logo=html5&logoColor=E34F26">
 <img src="https://img.shields.io/badge/CSS3-20232A?style=flat&logo=css3&logoColor=1572B6">
