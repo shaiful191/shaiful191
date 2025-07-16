@@ -1,6 +1,6 @@
 ## **👋 About Me**  
-Hi there! I'm **Shaiful**, a passionate **Mobile App Developer**. 
-- 🚀 **Building modern application with Flutter**  
+Hi there! I'm **Shaiful**, a passionate **Software Engineer**. 
+- 🚀 **Building modern application with wordpress, Flutter, odoo**  
 - 🔍 **Interested in  AI/ML**  
 
 ---
@@ -9,7 +9,6 @@ Hi there! I'm **Shaiful**, a passionate **Mobile App Developer**.
 
 📩 **Email:** shaifulislam2651@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/shaiful191  
-🌐 **Portfolio:** https://shaiful191.github.io/shaifulislam.io 
 <!-- 🌐 **Portfolio:** https://shaiful191.github.io/shaifulislam.io   -->
 
 ---
